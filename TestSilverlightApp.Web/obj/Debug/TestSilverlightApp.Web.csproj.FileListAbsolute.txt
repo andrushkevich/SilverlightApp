@@ -1,6 +1,0 @@
-E:\source\TestSilverlightApp\TestSilverlightApp.Web\bin\TestSilverlightApp.Web.dll.config
-E:\source\TestSilverlightApp\TestSilverlightApp.Web\bin\TestSilverlightApp.Web.dll
-E:\source\TestSilverlightApp\TestSilverlightApp.Web\bin\TestSilverlightApp.Web.pdb
-E:\source\TestSilverlightApp\TestSilverlightApp.Web\obj\Debug\TestSilverlightApp.Web.dll
-E:\source\TestSilverlightApp\TestSilverlightApp.Web\obj\Debug\TestSilverlightApp.Web.pdb
-E:\source\TestSilverlightApp\TestSilverlightApp.Web\obj\Debug\TestSilverlightApp.Web.csprojResolveAssemblyReference.cache
