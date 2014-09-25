@@ -18,10 +18,7 @@ namespace TestSilverlightApp
     {
         public MainPage()
         {
-            MessageServiceClient client = new MessageServiceClient();
-            client.AddAsync("asdasdasdsa");
-
-            InitializeComponent();
+           InitializeComponent();
         }
 
         
