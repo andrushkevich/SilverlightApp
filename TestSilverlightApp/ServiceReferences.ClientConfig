@@ -1,0 +1,17 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="BasicHttpBinding_IMessageService" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="../MessageService.svc" binding="basicHttpBinding"
+                bindingConfiguration="BasicHttpBinding_IMessageService" contract="ServiceReference1.IMessageService"
+                name="BasicHttpBinding_IMessageService" />
+        </client>
+    </system.serviceModel>
+</configuration>
